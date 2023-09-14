@@ -1,0 +1,38 @@
+.full{
+    border-style: none;
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+#firstName, #lastName{
+    font-style: italic;
+    color:rgb(68, 66, 66);
+}
+.left {background-color:burlywood;
+float:left
+}
+
+.left img{
+width: 280px;
+}
+
+.right {background-color:cornsilk;
+float:right
+}
+
+.about{
+margin-right: 30px;
+}
+
+h3 {color:rgb(31, 30, 30);
+text-decoration: underline
+}
+
+h4 {color:rgb(36, 35, 35);
+font-style: italic
+}
+
+
+
+
+
+
